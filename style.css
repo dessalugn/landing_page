@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    font-family: sans-serif;
 }
 
 .nav-container {
@@ -64,10 +65,9 @@ body {
 }
 
 .btn {
-    width: 120px;
-    height: 40px;
-    background-color: #3882F6;
-    border-radius: 15px;
+    padding: 8px 1em;
+    width: 130px;
+    border-radius: 10px;
 }
 
 .blue {
